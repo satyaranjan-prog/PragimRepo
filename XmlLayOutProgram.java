@@ -13,7 +13,7 @@ public class XmlLayOutProgram {
 		Layout layout=new XMLLayout();
 		Appender ap=new ConsoleAppender(layout);
 		log.addAppender(ap);
-		
+		hii
 		log.debug("HIii");
 		log.info("HIii");
 		log.warn("HIii");
